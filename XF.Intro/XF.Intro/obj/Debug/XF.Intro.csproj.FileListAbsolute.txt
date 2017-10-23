@@ -1,0 +1,17 @@
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\XF.Intro.dll
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\XF.Intro.pdb
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.csprojResolveAssemblyReference.cache
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.MainPage.xaml.g.cs
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.App.xaml.g.cs
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.ConfigPage.xaml.g.cs
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.dll
+C:\Users\willi\Documents\Fiap\Xamarin\Xamarin\XF.Intro\XF.Intro\obj\Debug\XF.Intro.pdb
