@@ -22300,12 +22300,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\XF.MVVMBasic.UWP.csproj",
+      "projectUniqueName": "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\XF.MVVMBasic.UWP.csproj",
       "projectName": "XF.MVVMBasic.UWP",
-      "projectPath": "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\XF.MVVMBasic.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\project.json",
+      "projectPath": "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\XF.MVVMBasic.UWP.csproj",
+      "projectJsonPath": "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\project.json",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\obj\\",
+      "outputPath": "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22318,8 +22318,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic\\XF.MVVMBasic.csproj": {
-              "projectPath": "C:\\Users\\willi\\Documents\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic\\XF.MVVMBasic.csproj"
+            "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic\\XF.MVVMBasic.csproj": {
+              "projectPath": "D:\\Willian Hilton\\Fiap\\Xamarin\\Xamarin\\XF.MVVMBasic\\XF.MVVMBasic\\XF.MVVMBasic.csproj"
             }
           }
         }

@@ -13,12 +13,8 @@ namespace XF.MVVMBasic.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AlunoView : ContentPage
     {
-        AlunoViewModel vmAluno;
         public AlunoView()
         {
-            var aluno = AlunoViewModel.GetAluno();
-            vmAluno = new AlunoViewModel(aluno);
-            BindingContext = vmAluno;
             InitializeComponent();
         }
     }

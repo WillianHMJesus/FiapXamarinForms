@@ -4,16 +4,27 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using XF.MVVMBasic.ViewModel;
 
 namespace XF.MVVMBasic
 {
     public partial class App : Application
     {
+        #region ViewModels
+        public static AlunoViewModel AlunoVM { get; set; }
+        #endregion
+
         public App()
         {
             InitializeComponent();
+            InitializeApplication();
 
-            MainPage = new NavigationPage(new View.AlunoView());
+            MainPage = new NavigationPage(new View.AlunoView() { BindingContext = App.AlunoVM });
+        }
+
+        private void InitializeApplication()
+        {
+            if (AlunoVM == null) AlunoVM = new AlunoViewModel();
         }
 
         protected override void OnStart()
