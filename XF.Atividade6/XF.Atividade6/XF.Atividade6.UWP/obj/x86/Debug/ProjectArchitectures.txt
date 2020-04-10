@@ -1,0 +1,2 @@
+D:\Willian Hilton\Fiap\Xamarin\Xamarin\XF.Atividade6\XF.Atividade6\XF.Atividade6.UWP\XF.Atividade6.UWP.csproj;x86
+D:\Willian Hilton\Fiap\Xamarin\Xamarin\XF.Atividade6\XF.Atividade6\XF.Atividade6\XF.Atividade6.csproj;neutral
